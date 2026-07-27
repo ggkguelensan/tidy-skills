@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tidy React"
+  short_description: "Empirical React component and state cleanup"
+  default_prompt: "Use $tidy-react to plan and implement this React change with minimal safe cleanup."
