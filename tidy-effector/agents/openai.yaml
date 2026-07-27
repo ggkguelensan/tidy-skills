@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tidy Effector"
+  short_description: "Empirical Effector model and graph cleanup"
+  default_prompt: "Use $tidy-effector to make this Effector change through small scope-safe steps."
