@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tidy TypeScript"
+  short_description: "Empirical, behavior-preserving TypeScript changes"
+  default_prompt: "Use $tidy-typescript to make this TypeScript change through the smallest safe structural steps."
